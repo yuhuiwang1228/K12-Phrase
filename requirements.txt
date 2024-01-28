@@ -1,0 +1,9 @@
+pdf2image
+pytesseract
+pillow
+poppler
+tesseract
+python-docx
+nltk
+pandas
+numpy
